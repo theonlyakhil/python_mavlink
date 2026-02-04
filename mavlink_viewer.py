@@ -2,7 +2,7 @@
 MAVLink Data Viewer
 Connects to a Pixhawk flight controller via USB and displays MAVLink data stream.
 
-Author: Created for Pixhawk Cube flight controller communication
+Author: Created for Pixhawk Cube flight controller communication......
 """
 
 import time
