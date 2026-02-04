@@ -1,5 +1,7 @@
 # MAVLink Data Viewer
 
+![Pixhawk Cube Flight Controller](pix_cube.jpeg)
+
 A Python application that connects to a Pixhawk flight controller via USB and displays MAVLink data streams in real-time.
 
 ---
